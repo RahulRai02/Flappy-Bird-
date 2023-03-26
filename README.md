@@ -1,10 +1,21 @@
-# ES102-PROJECT
-Flappy Bird Game
+# Flappy Bird
 
-This is a simple yet a challenging game.In this game the player has to take the bird across the pipes and score is counted .
-This is a type of an infinite game .
+A bird game where you need to pass across the pipes in order to score.
 
-Game can be played by using SPACE or the UP ARROW KEY 
+### How to run the game ?
 
-Now you can play the game
-Thanks For Reading
+Clone the repositry into your local system using:
+```
+git clone https://github.com/RahulRai02/Flappy-Bird-.git
+```
+
+Run the python file main.py using 
+
+```
+python3 main.py
+```
+
+### How to play the game?
+
+Game can be played using <kbd>Space</kbd> and <kbd>UP</kbd> keys.
+
